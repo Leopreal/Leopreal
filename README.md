@@ -2,17 +2,28 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Pernomian;I'm+18+years+old;I+am+from+Adamantina,+SP;I+study+analysis+and+systems+development+at+UNIFAI;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leopreal&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Leopreal github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leopreal&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+
+
+<div style="display: flex; flex-direction: column">
+  <div style="display: flex; flex-direction: center;">
+    <div style="display: flex; flex-direction: center">
+      <img
+	width="830"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leopreal&theme=midnight_purple"
+      />
+       <img
+	style="min-width: 138px; max-height: 134px;"
+	width="200"
+     />
+     <img
+	style="min-width: 160px;"
+	height="190"
+        src="https://streak-stats.demolab.com/?user=Leopreal&theme=midnight_purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+      />
+   </div
+   </div>
 </div>
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leopreal&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leopreal&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
  
 ### Main skills:
